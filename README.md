@@ -13,7 +13,7 @@ The system enables users to:
 The `agriplatform/` folder houses the user interface (React, Angular, Vue — replace with your choice) that consumes our backend API and presents the dashboards, forms, charts and maps.
 
 ### Back-end / API  
-- `server.js` (or your entrypoint) sets up the web server (Express.js) and mounts API routes.  
+- `server.js` (or your entrypoint) sets up the web server (Express.js) and mounts API routes  
 - Routes live under e.g. `routes/` or inline in `server.js`:  
   - **Auth** endpoints (`/api/auth/register`, `/api/auth/login`, etc.)  
   - **Farm/Field** endpoints (`/api/farms`, `/api/fields`, etc.)  
