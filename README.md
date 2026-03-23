@@ -1,6 +1,6 @@
 # Crop Recommendation & Weather Insights Platform
 
-## 🚀 Project Overview  
+## Project Overview  
 This is the codebase for the **Crop Recommendation & Weather Insights Platform** — a full-stack application designed to help farmers and agritech stakeholders by combining (1) crop-recommendation intelligence and (2) weather & field-insights dashboards.  
 The system enables users to:  
 - Receive **crop suggestions** based on soil parameters, weather forecasts and historical data.  
@@ -8,7 +8,7 @@ The system enables users to:
 - Manage farms, fields, crop-cycles through a clean UI + robust backend API.  
 - Support decision-making and improve yields via data-driven agriculture.
 
-## 🗂 Architecture Overview  
+## Architecture Overview  
 ### Front-end  
 The `agriplatform/` folder houses the user interface (React, Angular, Vue — replace with your choice) that consumes our backend API and presents the dashboards, forms, charts and maps.
 
@@ -28,7 +28,7 @@ The `agriplatform/` folder houses the user interface (React, Angular, Vue — re
 - Machine-learning model/component (or rule-engine) that runs crop-recommendation logic.  
 - Deployment environment: Node.js server + managed DB + static hosting for front-end.
 
-## 🧰 Getting Started  
+## Getting Started  
 
 ### Prerequisites  
 - Node.js (version >= 14)  
