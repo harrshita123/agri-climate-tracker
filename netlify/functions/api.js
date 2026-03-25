@@ -1,7 +1,7 @@
 require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
-const path = require('path');
+const path = require('');
 
 const app = express();
 const API_KEY = process.env.OPENWEATHER_API_KEY;
