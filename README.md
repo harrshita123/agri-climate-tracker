@@ -1,6 +1,6 @@
 # Crop Recommendation & Weather Insights Platform
 
-## Project Overview  
+ 
 This is the codebase for the **Crop Recommendation & Weather Insights Platform** — a full-stack application designed to help farmers and agritech stakeholders by combining (1) crop-recommendation intelligence and (2) weather & field-insights dashboards.  
 The system enables users to:  
 - Receive **crop suggestions** based on soil parameters, weather forecasts and historical data.  
